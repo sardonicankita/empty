@@ -19,6 +19,6 @@ public:
         return solve(countAndSay(n-1));
     }
 
-
+return 0;
 
 };
